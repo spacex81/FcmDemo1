@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "607585787558",
+    "project_id": "practice-e75ae",
+    "storage_bucket": "practice-e75ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607585787558:android:23b57404f83b43b9c89e67",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7Vjw-ritvuoaIVPDml7HqGUD9FLNKm0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
